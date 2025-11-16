@@ -133,7 +133,7 @@ main {
 /* --- Home Page Styling --- */
 .home-main {
     /* Background using the uploaded image with a dark overlay for contrast */
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('CBT\ IMAGE.jpg'); 
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('CBT\ IMAGE.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
