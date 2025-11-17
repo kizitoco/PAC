@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 window.open(formURL, '_blank');
             } else {
                 console.error(`Error: No link found for subject: ${subject}`);
-                alert(`The exam link for ${subject} is not yet available. Please update the script.js file.`);
+                alert(`The exam link for ${subject} is not yet available. Please update the Subject.`);
             }
         });
     });
