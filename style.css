@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap');
 
 :root {
-    --primary-color: #112d82; /* Dark Blue */
+    --primary-color: #014385; /* Dark Blue */
     --secondary-color: #FFC107; /* Complementary yellow accent */
     --text-color: #333;
-    --bg-color: #f8f9fa;
+    --bg-color: #80cdf1;
     --white: #ffffff;
     --shadow-light: 0 4px 12px rgba(0, 0, 0, 0.1);
     --transition: all 0.3s ease;
@@ -133,7 +133,7 @@ main {
 /* --- Home Page Styling --- */
 .home-main {
     /* Background using the uploaded image with a dark overlay for contrast */
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('CBT\ IMAGE.jpg'); 
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('CBT\ IMAGE.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
