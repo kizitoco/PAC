@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap');
 
 :root {
-    --primary-color: #014385; /* Dark Blue */
-    --secondary-color: #FFC107; /* Complementary yellow accent */
+    --primary-color: #2C5591; /* Dark Blue */
+    --secondary-color: #A84051; /* Complementary yellow accent */
     --text-color: #333;
-    --bg-color: #80cdf1;
+    --bg-color: #AECEDD;
     --white: #ffffff;
     --shadow-light: 0 4px 12px rgba(0, 0, 0, 0.1);
     --transition: all 0.3s ease;
